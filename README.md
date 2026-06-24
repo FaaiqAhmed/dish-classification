@@ -9,6 +9,7 @@ In This project we build a deep learning model to classify images of Pakistani a
 ## 📊 Dataset
 
 The dataset was created by combining two web-scraped food image datasets into a single dataset containing **17 classes** and **~10,000 images**.
+You can find the original dataset [here](https://www.kaggle.com/datasets/useractivated/dataset)
 
 ### Example Classes
 
